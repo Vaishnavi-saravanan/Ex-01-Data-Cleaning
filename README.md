@@ -58,32 +58,17 @@ df['Loan_Amount_Term']=df['Loan_Amount_Term'].fillna(df['Loan_Amount_Term'].mean
 df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].mean())
 df.isnull().sum()
 ```
-
 # OUTPUT:
-
-# 1ST FILE:
-
-# Data_Set.csv FILE
-
-INFO
-
-Isnull.().sum() before cleaning
-
-MODE,MEAN and FORWARD METHOD
-
-isnull().sum() after cleaning
-
-# 2ND FILE
-
-# Loan_Data.csv FILE
-
-INFO
-
-Isnull.().sum() before cleaning
-
-MODE,MEAN and MEDIAN
-
-isnull().sum() after cleaning 
+![o1](https://user-images.githubusercontent.com/118541897/226187157-dcf13c93-ba3e-4387-9365-55eafa3b7217.png)
+![o2](https://user-images.githubusercontent.com/118541897/226187170-21661916-c2f7-41c5-a83c-73cfc3a4b888.png)
+![o3](https://user-images.githubusercontent.com/118541897/226187177-fc8f37db-c84f-4d82-b17c-0676cc426b08.png)
+![o4](https://user-images.githubusercontent.com/118541897/226187187-554fe808-01ca-4585-8e63-e6353c781f99.png)
+![o5](https://user-images.githubusercontent.com/118541897/226187247-c3a414d4-998a-49e6-bad1-d7f3e6dec54a.png)
+![o6](https://user-images.githubusercontent.com/118541897/226187250-151be34a-70e1-4f97-be71-3dc8bffebe57.png)
+![o7](https://user-images.githubusercontent.com/118541897/226187271-51afb3e7-d69b-46cb-b368-83d39d50da4d.png)
+![o8](https://user-images.githubusercontent.com/118541897/226187277-54221878-7133-4ce4-8efb-debbecd25006.png)
+![o9](https://user-images.githubusercontent.com/118541897/226187285-362f3a67-6899-4dca-872f-4c8e46c575db.png)
+![o10](https://user-images.githubusercontent.com/118541897/226187296-24c30b2e-34ea-4c58-8f27-2def581c04f4.png)
 
 # RESULT:
 
